@@ -22,5 +22,5 @@ __Github for poets__
 
 ## Concrètement :
 
-  * Forker le projet dans son espace
-  * soumettre des pull-request (PR) sur Huaoe/Auray2020 je m'occuperai des fusions (merge)
+  * Forker le projet dans son espace Github perso
+  * Soumettre des pull-request (PR) sur Huaoe/Auray2020 je m'occuperai des fusions (merge)
