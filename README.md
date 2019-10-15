@@ -20,4 +20,7 @@ __Github for poets__
   * réaliser une proposition de projet de gouvernance en définissant une méthode dans le fichier **Gouvernance.md**
   
 
+## Concrètement :
 
+  * Forker le projet dans son espace
+  * soumettre des pull-request (PR) sur Huaoe/Auray2020 je m'occuperai des fusions (merge)
