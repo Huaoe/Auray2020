@@ -2,7 +2,7 @@
 
 Bonjour ! Degemer mat,
 
-voici le projet pilote du groupe pour les municipales 2020
+voici le projet pilote de travail coopératif du groupe gouvernance pour les municipales d'Auray 2020
 
 ## Pour participer il faut :
 
