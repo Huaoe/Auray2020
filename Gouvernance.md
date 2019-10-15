@@ -31,7 +31,19 @@ le terme démocratie participative est pléonasmique mais communément employé.
 
 ###### Civitech
 
-Comparaison des differentes solutions 
+Les civic tech [8] renferment une promesse sans doute excessive de renouvellement de la démocratie par le numérique. Il ne faut pas la surestimer et verser dans ce qu'on appelle le «solutionnisme technologique». Les technologies ne résoudront pas des problèmes qui tiennent aux relations sociales et aux contextes sociaux eux-mêmes.
+[http://ses.ens-lyon.fr/articles/la-democratie-participative-entretien-avec-loic-blondiaux]
+
+Les avantages :
+  - contribution à distance
+  - les jeunes participent plus
+  - séquença ge du processus de décision par consentement 
+  - cartographie des problèmes et modélisation par l'image : facilite l'appropriation par les administrés
+  - transparence
+  - inclusion
+  - contribution
+
+** Comparaison des differentes solutions **
 
 Solution | Website | Avantages | Contraintes | Avis
 --- | --- | --- | --- | ---
