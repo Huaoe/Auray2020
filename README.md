@@ -24,3 +24,6 @@ __Github for poets__
 
   * Forker le projet dans son espace Github perso
   * Soumettre des pull-request (PR) sur Huaoe/Auray2020 je m'occuperai des fusions (merge)
+
+
+[-> c'est parti !](https://github.com/Huaoe/Auray2020/blob/master/Gouvernance.md)
