@@ -2,6 +2,9 @@
 
 Bonjour ! Degemer mat,
 
+![Auray](https://upload.wikimedia.org/wikipedia/fr/thumb/1/1f/Auray_logo_2017.png/100px-Auray_logo_2017.png "Auray")
+
+
 voici le projet pilote de travail coopératif du groupe gouvernance pour les municipales d'Auray 2020
 
 ## Pour participer il faut :
